@@ -10,3 +10,10 @@ The following tools are available to globally install via NPM.
 | ---- | ----------- |-----|
 | [directline-postman](./directline-postman/README.md) | Postman tools for debugging bots through the Direct Line | - |
 | [talking bot bridge](./TalkingBotBridge/ReadMe.md) | Talk to your bot with speech using a desktop UWP bridge| - |
+| [DispatchUpdater](./DispatchUpdater/README.md) | Update your Dispatch models on a schedule using Azure Functions | - |
+
+The following tools are available to run as isolated Powershell modules.
+
+| Name | Description
+| ---- | -----------
+| [bottroubleshooter](./bottroubleshooter/README.md) | Script to troubleshoot common issues with bot setup, configuration, and connectivity |
